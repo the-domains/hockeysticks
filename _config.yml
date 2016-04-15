@@ -1,28 +1,40 @@
-name: hockeysticks
 favicon: null
-layout_spectrum: 0.4652560125105083
-typography_spectrum: 0.7105556051246822
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: hockeysticks
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3267483
+  brandStrength: 0.1781152281910181
+  lightness: 0.150913
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.1781152281910181
-  lightness: 0.34905709559097886
-  saturation: 0.3267483070958406
-  rhythmicContrast: 0.15422603930346668
-purpose: []
+  rhythmicContrast: 0.359291
+typography_spectrum: 0.7105556051246822
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4652560125105083
+analytics:
+  twitter: null
+  google: null
+  facebook: null
