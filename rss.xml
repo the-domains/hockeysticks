@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hockeysticks]]></title>
+        <description><![CDATA[hockeysticks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 17:39:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flyers/Capitals Game 1]]></title>
+            <description><![CDATA[<article><h1>Flyers/Capitals Game 1</h1><p>WASHINGTON -- Braden Holtby made 19 saves when the Washington Capitals shut out the Philadelphia Flyers 2-0 in Game 1 of the Eastern Conference First Round at Verizon Center on Thursday. Holtby's third career NHL playoff shutout helped the Capitals take a 1-0 lead in the best-of-7 series.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de15834b9c6bafe141711c0c9867fa479b06c555.jpg"></article>]]></description>
+            <link>undefinedflyerscapitals-game-1/index.html</link>
+            <guid isPermaLink="false">7baf5c33-aa2d-416b-b2d4-a4888d6e16a0</guid>
+            <pubDate>Fri, 15 Apr 2016 17:39:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
